@@ -1,0 +1,45 @@
+body {
+	background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+button {
+	margin: 5px;
+}
+
+.anime {
+	display: inline-block;
+	margin: 10px;
+}
+
+.animeText {
+	text-transform: uppercase;
+}
+
+.enterNew {
+	margin-top: 5px;
+}
+
+.jumbotron {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'cooperplate' !important;
+	color: white;
+	text-shadow: 2px 2px black;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+  	filter: drop-shadow(5px 5px 5px #222);
+  	background-color: rgba(64, 64, 64, 0.5) !important;
+}
+
+p {
+	font-size: 16px;
+	font-family: 'cooperplate' !important;
+	color: white;
+	text-shadow: 2px 2px black;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+  	filter: drop-shadow(5px 5px 5px #222);
+  	text-transform: uppercase;
+}
